@@ -1,1 +1,2 @@
 An Operating System manages device communication via their respective drivers. Decides which process gets the device when and for how much time. Allocates the device in the efficient way.
+Keeps track of information, location, uses, status etc. The collective facilities are often known as file system. Decides who gets the resources. Allocates the resources.
